@@ -2,7 +2,7 @@
 layout: featured
 title_tr: Klasik Cilt Bakımı
 
-permalink: /hizmetler/klasik-cilt-bakimi
+permalink: hizmetler/klasik-cilt-bakimi
 
 number: 6
 

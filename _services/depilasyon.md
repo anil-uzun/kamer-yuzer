@@ -3,7 +3,7 @@ layout: featured
 
 title_tr: Depilasyon
 
-permalink: /hizmetler/depilasyon
+permalink: hizmetler/depilasyon
 
 number: 3
 

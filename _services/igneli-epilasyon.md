@@ -3,7 +3,7 @@ layout: featured
 
 title_tr: İğneli Epilasyon
 
-permalink: /hizmetler/igneli-epilasyon
+permalink: hizmetler/igneli-epilasyon
 
 number: 4
 

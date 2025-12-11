@@ -3,7 +3,7 @@ layout: featured
 
 title_tr: Altın Oran Kaş Tasarımı
 
-permalink: /hizmetler/altin-oran-kas-tasarimi
+permalink: hizmetler/altin-oran-kas-tasarimi
 
 number: 1
 
