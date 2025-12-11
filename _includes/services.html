@@ -26,7 +26,7 @@
             <div class="col-xl-4 col-lg-4 col-md-6 mb-50 grid-item">
                 <div class="services-box">
                     <div class="services-img">
-                    <a href="{{site.url}}{{a}}/{{service.permalink}}">
+                    <a href="{{site.baseurl}}{{a}}/{{service.permalink}}">
                         <img src="{{site.baseurl}}/assets/img/service/{{service.number}}.jpg" class="img-fluid" alt="">
                     </div>
                     <div class="services-content">
@@ -40,7 +40,7 @@
                             <p>{% t key %}</p>
                         </div> -->
                     </a>
-                        <a href="{{a}}/{{b}}/{{service.permalink}}" class="btn">{% translate global.continue %}</a>
+                        <a href="{{site.baseurl}}{{a}}/{{service.permalink}}" class="btn">{% translate global.continue %}</a>
                     </div>
                 </div>
             </div>
