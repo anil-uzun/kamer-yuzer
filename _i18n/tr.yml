@@ -70,24 +70,26 @@ blog:
 
 #services Content
 services:
-  opt_all:    HEPSİ
-  opt_perm:   İZİNLER
-  opt_doc:    BELGELER
+  opt_all:    El ve Ayak
+  opt_perm:   Bütün Vücut
+  opt_doc:    Yüz
   text:       WoaBeauty - İhtiyacınız olabilecek her türlü yardımı hizmetlerimizin arasında bulabilirsiniz
   service_1:  ALTIN ORAN KAŞ TASARIMI
-  text_1:     Türkiye Cumhuriyeti vatandaşı olmak, bir Türkiye Cumhuriyeti vatandaşının haklarından yararlanmak için gerekli işlemlerinizde danışmanlığımızın hizmetlerinden yararlanmak için bize ulaşın.
+  text_1:     --
   service_2:  EL VE AYAK BAKIMI
-  text_2:     Türkiye'de oturmak, Türkiye'de uzun dönem kalabilmek için gerekli olan oturma iznini çıkartmada danışmanlığımızın hizmetlerinden yararlanmak için bize ulaşın.
+  text_2:     --
   service_3:  DEPİLASYON
-  text_3:     Hakkınızda ya da bir yakınınız hakkında verilen deport kararını değiştirmede danışmanlığımızın hizmetlerinden yararlanmak için bize ulaşın.
+  text_3:     --
   service_4:  İĞNELİ EPİLASYON
-  text_4:     Türkiye'de çalışmak, Türkiye'de iş kurmak için gerekli olan çalışma iznini çıkartmada danışmanlığımızın hizmetlerinden yararlanmak için bize ulaşın.
+  text_4:     --
   service_5:  PROFESYONEL MAKYAJ
-  text_5:     Türkiye'ye gelmek, türkiye'yi gezmek ve o süre içerisinde Türkiye'de ikamet edebilme hakkını size sağlayan Türkiye vizesini çıkartmada danışmanlığımızın hizmetlerinden yararlanmak için bize ulaşın.
+  text_5:     --
   service_6:  KLASİK CİLT BAKIMI
-  text_6:     Oturma izni için gerekli olan yabancı sağlık sigortasını çıkartmada danışmanlığımızın hizmetlerinden yararlanmak için bize ulaşın.
+  text_6:     --
   service_7:  PUMPKİN (BALKABAĞI) BAKIMI
-  text_7:     Pasaport çıkarmada danışmanlığımızın hizmetlerinden yararlanmak Türkiye pasaportunun sağladığı yararlardan faydalanmak için bize ulaşın. (Sadece Vatandaşlara verilir)
+  text_7:     --
+  service_8:  KİRPİK LİFTİNG
+  text_8:     --
 
 #service Content
 
