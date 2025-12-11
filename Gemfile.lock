@@ -103,7 +103,6 @@ GEM
     tzinfo-data (1.2025.2)
       tzinfo (>= 1.0.0)
     unicode-display_width (2.6.0)
-    wdm (0.2.0)
     webrick (1.9.1)
 
 PLATFORMS
@@ -124,7 +123,6 @@ DEPENDENCIES
   minima (~> 2.0)
   sass-embedded (~> 1.78.0)
   tzinfo-data
-  wdm
   webrick
 
 BUNDLED WITH
