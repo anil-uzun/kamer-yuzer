@@ -5,6 +5,6 @@ date: 05-09-2023 13:20:00 +0600
 tags: [Bilgilendirme, Tahdit]
 categories: [Makaleler]
 author: Anıl Uzun
-post_image: "/assets/img/services/01.jpg"
+post_image: "{{site.}}/assets/img/services/01.jpg"
 hrefs_tr: [["Test"], ["Post"]]
 ---

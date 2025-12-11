@@ -1,7 +1,7 @@
 #Please use the main menu items under the "text"
 
 - text: Anasayfa
-  url: /
+  url: {{site.baseurl}}
 - text: Hakkımızda
   url: /sayfalar/hakkimizda
 - text: Blog
