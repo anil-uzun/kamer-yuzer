@@ -16,8 +16,6 @@ image: /assets/img/services/02.jpg
 <div class="row">
     <div class="col-md-12">
         <div class="service-details mb-40">
-            <div id="Oturma İzni nedir?" class="jumptarget">
-            <div id="What is a Residence Permit?" class="jumptarget">
             <h2>{% translate service_2.header_1 %}</h2>
             <div class="contact-person">
                 {% if site.lang == "tr" %}
@@ -29,8 +27,6 @@ image: /assets/img/services/02.jpg
             </div>
             {% translate service_2.text_1 %}
             <br>
-            </div>
-            </div>
         </div>
     </div>
 </div>

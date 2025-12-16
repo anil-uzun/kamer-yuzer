@@ -12,7 +12,7 @@ global:
   share:        Paylaş
   adress:       Çeliktepe Mah. İnönü Cad. Utku İşhanı No:21 D:1 34413 Kağıthane/İstanbul
   adress_str:   Çeliktepe Mah. İnönü Cad. Utku İşhanı No:21 D:1 34413 Kağıthane/İstanbul
-  mail:         support@euro-permit.com
+  mail:         kameryuzer@gmail.com
   headers:      Başlıklar
   site_lang:    Site Dili
 
@@ -521,28 +521,6 @@ contact:
   mail:   E-mail
   text_3: Bize bu mail adresine mail atarak ulaşabilirsiniz
 
-#Countdown Content
-countdown:
-  column_1: >-
-            <p>Ülkemizde</p>
-            <div class="counter">4</div><p>milyon</p>
-            <div class="counter">893</div><p>bin</p>
-            <p>Yabancı Nüfus Bulunmakta</p>
-  column_2: >-
-            <p>Bu Nüfusun</p>
-            <div class="counter">1</div><p>milyon</p>
-            <div class="counter">792</div><p>bin</p>
-            <p>Kadarı İkamet İznine Sahip</p>
-  column_3: >-
-            <p>Bu</p>
-            <div class="counter">3</div><p>milyon</p>
-            <div class="counter">101</div><p>bin</p>
-            <p>Kişinin Henüz İkamet İznine Sahip olmadığını Gösterir</p>
-  column_4: >-
-            <p>Güzellik Evi Olarak</p>
-            <p>İşte Biz Burda Devreye Giriyoruz!</p>
-            <p>Ülkemizde yaşamak isteyen yabancıların işlemlerinin pürüzsüz halledilmesi İçin en iyi şekilde hizmet veriyoruz</p>
-
 #Sidebar Content
 sidebar:
   text_1:     Yeni Paylaşımlar
@@ -565,4 +543,3 @@ page_404:
             <h1>404</h1>
             <p><strong>Sayfa Bulunamadı :(</strong></p>
             <p>Aranılan sayfa bulunamadı.</p>
-            <b><a href="{{site.url}}">Anasayfa'ya</a>git</b>

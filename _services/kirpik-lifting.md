@@ -10,8 +10,6 @@ categories: [service]
 image: /assets/img/services/05.jpg
 icon: /assets/img/icons/layer-group-solid.svg
 
-hrefs_tr: [["Umuma Mahsus (Bordo) Pasaport"],["Hususi (Yeşil) Pasaport"],[Hizmet (Gri) Pasaport],[Diplomatik (Siyah) Pasaport]]
-hrefs_en: [["Ordinary (Maroon) Passport"],[Special (Green) Pasaport],[Service (Grey) Passport],[Diplomatic (Black) passport]]
 ---
 
 <div class="row">
