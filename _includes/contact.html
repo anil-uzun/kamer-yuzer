@@ -2,12 +2,12 @@
     <div class="contact-person">
         <h4>{% translate contact.phone %}</h4>
         <p>{% translate contact.text_2 %}</p>
-        <b><a href="tel:05324566614"><span><i class="fas fa-phone"></i>{{ site.phone_number }}</span></a></b>
+        <b><a href="tel:{{site.phone_number}}"><span><i class="fas fa-phone"></i>{{ site.phone_number }}</span></a></b>
         {% if site.lang == "tr" %}
-        <b><a href="https://api.whatsapp.com/send?phone=905324566614&text=Merhaba WoaBeauty aracılığı ile size ulaşıyorum."><span class="pl-30"><i class="fab fa-whatsapp"></i>{{ site.whatsapp }}</span></a></b>
+        <b><a href="https://api.whatsapp.com/send?phone=905451229656&text=Merhaba websiteniz aracılığı ile size ulaşıyorum."><span class="pl-30"><i class="fab fa-whatsapp"></i>{{ site.whatsapp }}</span></a></b>
         {% endif %}
         {% if site.lang == "en" %}
-        <b><a href="https://api.whatsapp.com/send?phone=905324566614&text=Hello i am contacting you via WoaBeauty's website."><span class="pl-30"><i class="fab fa-whatsapp"></i>{{ site.whatsapp }}</span></a></b>
+        <b><a href="https://api.whatsapp.com/send?phone=905451229656&text=Hello i am contacting you via your website."><span class="pl-30"><i class="fab fa-whatsapp"></i>{{ site.whatsapp }}</span></a></b>
         {% endif %}
     </div>
 </div>
@@ -22,6 +22,6 @@
     <div class="contact-person">
         <h4>{% translate contact.mail %}</h4>
         <p>{% translate contact.text_3 %}</p>
-        <b><a href="mailto:support@euro-permit.com"><span><i class="far fa-envelope-open"></i>{{ site.email }}</span></a></b>
+        <b><a href="mailto:{{site.email}}"><span><i class="far fa-envelope-open"></i>{{ site.email }}</span></a></b>
     </div>
 </div>

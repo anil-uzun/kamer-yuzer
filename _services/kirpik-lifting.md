@@ -6,7 +6,6 @@ permalink: hizmetler/kirpik-lifting
 
 number: 8
 
-tags: passaport procedure
 categories: [service]
 image: /assets/img/services/05.jpg
 icon: /assets/img/icons/layer-group-solid.svg

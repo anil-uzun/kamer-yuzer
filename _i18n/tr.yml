@@ -51,16 +51,16 @@ search:
 
 #slider Content
 slider:
-  title_1:  Kamer Yüzer<br>Güzellik Evi<br><span>WoaBeauty</span>
+  title_1:  Kamer Yüzer<br><span>Güzellik Evi</span>
   btn_1:    Hizmetlere Git
 
 #about Content
 about:
   subtitle_1: Hakkımızda
   text_1: >- 
-              Kamer Yüzer Güzellik Evi, saç bakımı ve güzellik hizmetlerinde kaliteyi, doğallığı ve profesyonelliği öncelikli kılan bir merkezdir. Salonumuzda, deneyimli eğitmenimiz Kamer Yüzer önderliğinde, her müşterimize özel ve özenli bir hizmet sunuyoruz.
+              Kamer Yüzer, saç bakımı ve güzellik hizmetlerinde kaliteyi, doğallığı ve profesyonelliği öncelikli kılan bir merkezdir. Salonumuzda, deneyimli eğitmenimiz Kamer Yüzer önderliğinde, her müşterimize özel ve özenli bir hizmet sunuyoruz.
               Uzman ekibimiz ve modern tekniklerimiz ile saç bakımı, cilt bakımı, makyaj, kirpik lifting, kalıcı makyaj ve refleksoloji gibi geniş bir hizmet yelpazesi sunuyoruz. Amacımız sadece güzel görünmenizi sağlamak değil; aynı zamanda kendinizi değerli, özel ve bakımlı hissetmenizi garanti etmektir.
-              Kamer Yüzer Güzellik Evi, hijyen ve güvenlik standartlarından ödün vermeden, kişiye özel çözümler sunarak her ziyarette benzersiz bir bakım deneyimi yaşamanızı hedefler. Bizimle, güzellik ve bakım yolculuğunuzu uzman ellerde keşfedin.
+              Kamer Yüzer, hijyen ve güvenlik standartlarından ödün vermeden, kişiye özel çözümler sunarak her ziyarette benzersiz bir bakım deneyimi yaşamanızı hedefler. Bizimle, güzellik ve bakım yolculuğunuzu uzman ellerde keşfedin.
               
 #blog Content
 blog:
@@ -91,16 +91,24 @@ services:
   text_7:     --
   service_8:  KİRPİK LİFTİNG
   text_8:     --
+  service_9:  REFLEKSOLOJİ
+  text_9:     --
 
 #service Content
 
 #service 1 Content
 service_1:  
-  header_1: --
+  header_1: ALTIN ORAN KAŞ TASARIMI
   btn_1:    Bizimle İletişime Geç
   text_1: >-
             Altın Oran Kaş Tasarımı, yüzünüzün doğal anatomisine uygun olarak kaşlarınızın ideal formda şekillendirilmesini sağlayan bilimsel ve estetik bir tekniktir. Bu yöntemde yüzün simetrisi, göz yapısı, alın genişliği ve burun oranları özel ölçümlerle analiz edilir. Elde edilen veriler doğrultusunda kaşlara kişiye özel en doğal ve dengeli şekil verilir.<br>
             Altın oran prensibine göre tasarlanan kaşlar, yüz ifadesini daha canlı, dengeli ve estetik gösterir. Asimetrik, seyrek veya düşük kaş problemleri doğal görünüm bozulmadan düzeltilir. Uygulama, yüz hatlarınızı sertleştirmeden daha genç, dinamik ve bakımlı bir görünüm kazandırmayı hedefler.<br>
+            Altın Oran Kaş Tasarımı sayesinde:<br>
+            •	Yüzünüzle uyumlu, doğal kaş formu elde edilir.<br>
+            •	Bakışlar daha anlamlı ve dengeli görünür.<br>
+            •	Yüz asimetrileri minimuma indirilir.<br>
+            •	Makyajsızken bile bakımlı bir ifade sağlanır.<br>
+            Uzman analiz ve kişiye özel tasarım ile kaşlarınızda en ideal görünümü güvenle yakalayabilirsiniz<br>
 
 #service 2 Content
 service_2:
@@ -376,6 +384,125 @@ service_8:
               •	Kirpiklere sert dokunuşlardan ve ovalamadan kaçınılmalıdır.
               •	Suya dayanıklı maskara ve kirpik bakım serumları ile desteklenebilir.
 
+#service 9 Content
+service_9:
+  btn_1:      Bizimle İletişime Geç
+  header_1:   REFLEKSOLOJİ
+  text_1: >-  
+              Refleksoloji, ayak, el ve kulak üzerinde bulunan belirli refleks noktalarına uygulanan doğal ve bütünsel bir terapi yöntemidir. Bu noktalara yapılan baskı ve masaj ile vücuttaki enerji dengesi sağlanır, organların ve sistemlerin fonksiyonları desteklenir.<br>
+              Refleksoloji, sadece fiziksel rahatlama sağlamakla kalmaz; aynı zamanda stresin azalmasına, bağışıklık sisteminin güçlenmesine ve genel enerji seviyesinin artmasına yardımcı olur. Her seans öncesinde danışanın genel sağlık durumu ve ihtiyaçları değerlendirilir, seans boyunca rahatlatıcı teknikler uygulanır.<br>
+              Refleksolojinin Faydaları:<br>
+              •	Stres ve gerginliği azaltır<br>
+              •	Kan dolaşımını destekler<br>
+              •	Sindirim ve metabolizma süreçlerini destekler<br>
+              •	Uykusuzluk ve yorgunluk hissini azaltır<br>
+              •	Bağışıklık sistemini güçlendirir<br>
+              •	Kas gerginliklerini hafifletir<br>
+              •	Genel enerji seviyesini artırır<br>
+              Refleksoloji, her yaş grubuna uygun, doğal ve yan etkisiz bir terapi yöntemidir. Uzman refleksoloji uygulayıcıları tarafından yapılan seanslar, hem fiziksel hem de zihinsel olarak denge ve rahatlama sağlamayı hedefler.<br>
+              <br>
+              Seans Sonrası Öneriler:<br>
+              1.	Bol su tüketin: Vücudun toksinleri atmasına yardımcı olur ve refleksoloji etkilerini destekler.<br>
+              2.	Ağır egzersizlerden kaçının: Seans sonrası vücut enerji toplama ve yenilenme sürecindedir, aşırı fiziksel aktiviteyi sınırlayın.<br>
+              3.	Stresten uzak durun: Rahatlama ve enerji dengesi için seans sonrası sakin bir ortamda dinlenin.<br>
+              4.	Beslenmenize dikkat edin: Hafif ve dengeli beslenmek, vücudun dengeye kavuşmasını kolaylaştırır.<br>
+              5.	Cilt hassasiyeti: Ayak veya el masajı sonrası hafif kızarıklık veya hassasiyet oluşabilir; bu normaldir ve kısa sürede geçer.<br>
+              6.	Seans aralıklarına dikkat edin: Uzmanınızın önerdiği seans aralıklarına uyarak, etkilerin kalıcı olmasını sağlayın.<br>
+
+#service 10 Content
+service_10:
+  btn_1:      Bizimle İletişime Geç
+  header_1:   KALICI MAKYAJ
+  text_1: >-  
+              Kalıcı makyaj, kaş, göz ve dudak bölgelerinde uzun süre kalıcı ve doğal görünümlü estetik sonuçlar elde etmek için uygulanan profesyonel bir makyaj yöntemidir. Uzman eller tarafından yapılan bu uygulama, günlük makyaj ihtiyacını azaltır ve yüz hatlarını ön plana çıkarır.<br>
+              Kalıcı makyaj uygulamasında, özel pigmentler cilt altına belirli bir derinlikte işlenir. İşlem öncesinde kişinin yüz hatları ve cilt tonu detaylı olarak analiz edilir ve doğal görünümü sağlayacak renk, şekil ve teknik belirlenir. Uygulama sırasında kullanılan steril iğneler ve kaliteli pigmentler hem güvenli hem de uzun ömürlü sonuçlar sunar.<br>
+              Kalıcı Makyajın Avantajları:<br>
+              •	Kaş, göz ve dudak hatlarını belirginleştirir<br>
+              •	Günlük makyaj ihtiyacını azaltır<br>
+              •	Doğal ve uzun süre kalıcı görünüm sağlar<br>
+              •	Su, ter ve sürtünmeden etkilenmez<br>
+              •	Yüz hatlarını dengeler ve güzellik vurgusu yapar<br>
+              •	Profesyonel ve hijyenik ortamda uygulanır<br>
+              Kalıcı makyaj; kaş kontürü, dudak renklendirme, eyeliner ve göz içi kontür uygulamaları gibi farklı alanlarda uygulanabilir. Uzman uygulama sayesinde doğal, estetik ve kalıcı sonuçlar elde edebilirsiniz.<br>
+              Kalıcı Makyaj – Sık Sorulan Sorular (SSS)<br>
+              Kalıcı makyaj nedir?<br>
+              Kalıcı makyaj, kaş, göz ve dudak bölgelerinde özel pigmentlerin cilt altına işlenmesiyle uzun süre kalıcı ve doğal görünüm sağlayan profesyonel bir makyaj uygulamasıdır.<br>
+              ________________________________________<br>
+              Hangi bölgelerde uygulanabilir?<br>
+              •	Kaş kontürü ve şekillendirme<br>
+              •	Eyeliner ve göz içi kontür<br>
+              •	Dudak kontürü ve renklendirme<br>
+              •	Kaş gölgelendirme ve microblading<br>
+              ________________________________________<br>
+              Kalıcı makyaj acı verir mi?<br>
+              Uygulama sırasında hafif bir batma veya ısı hissi olabilir. İşlem öncesinde lokal anestezik krem kullanılarak konfor sağlanır.<br>
+              ________________________________________<br>
+              Kalıcı makyajın etkisi ne kadar sürer?<br>
+              Kalıcı makyaj genellikle 2–5 yıl arasında etkili olur. Pigment rengi zamanla hafifleyebilir; bu nedenle dokunuş seansları önerilir.<br>
+              ________________________________________<br>
+              İşlem öncesinde dikkat edilmesi gerekenler nelerdir?<br>
+              •	İşlemden 24 saat önce alkol, aspirin veya kan sulandırıcı kullanımı azaltılmalıdır.<br>
+              •	Ciltte açık yara veya enfeksiyon olmamalıdır.<br>
+              •	Hamilelik veya emzirme döneminde işlem için uzman tavsiyesi alınmalıdır.<br>
+              ________________________________________<br>
+              İşlem sonrası nelere dikkat edilmelidir?<br>
+              •	İşlem sonrası ilk 7–10 gün makyaj uygulanmamalıdır.<br>
+              •	Cilt temiz ve kuru tutulmalıdır.<br>
+              •	Kabuklanma oluşabilir, kesinlikle koparılmamalıdır.<br>
+              •	Güneş, solaryum ve sauna gibi aşırı sıcak ortamlardan kaçınılmalıdır.<br>
+              •	Uzman tarafından önerilen bakım ürünleri kullanılmalıdır.<br>
+              ________________________________________<br>
+              Kalıcı makyaj herkese uygulanabilir mi?<br>
+              Genel olarak 18 yaş üzeri herkese uygulanabilir. Ancak cilt problemleri, alerjik reaksiyonlar veya bazı kronik rahatsızlıklar durumunda uzman değerlendirmesi gerekir.<br>
+              ________________________________________<br>
+              Sonuç ne zaman görülür?<br>
+              İlk görünüm işlem sonrası hemen fark edilir. Kalıcı ve doğal renk tonu, kabuklanmanın dökülmesinden sonra 7–10 gün içinde netleşir.<br>
+
+
+#service 11 Content
+service_11:
+  btn_1:      Bizimle İletişime Geç
+  header_1:   PROFESYONEL MASAJ
+  text_1: >-  
+              Profesyonel masaj, kas gerginliklerini azaltmayı, kan dolaşımını desteklemeyi ve beden-zihin dengesini sağlamayı amaçlayan uzman ellerden alınan bütünsel bir terapi yöntemidir. Masaj uygulamaları, sadece rahatlama sağlamaz; aynı zamanda stresin azalmasına, enerji seviyesinin yükselmesine ve genel fiziksel iyileşmeye yardımcı olur.<br>
+              Her masaj seansı öncesinde uzman terapist tarafından ihtiyaç analizi yapılır ve kişinin sağlık durumu göz önünde bulundurularak uygun teknikler seçilir. Bu sayede hem fiziksel hem de zihinsel olarak maksimum fayda sağlanır.<br>
+              Profesyonel Masajın Faydaları:<br>
+              •	Kas gerginliklerini azaltır ve esnekliği artırır<br>
+              •	Kan ve lenf dolaşımını destekler<br>
+              •	Stres ve yorgunluğu azaltır, zihinsel rahatlama sağlar<br>
+              •	Ağrı ve kas spazmlarını hafifletir<br>
+              •	Uyku kalitesini artırır<br>
+              •	Enerji seviyesini yükseltir ve genel sağlığı destekler<br>
+              Profesyonel masaj; klasik masaj, derin doku masajı, aromaterapi ve spor masajı gibi farklı tekniklerle uygulanabilir. Uzman terapistlerimiz tarafından uygulanan her seans, kişiye özel olarak planlanır ve maksimum konfor sağlanır.<br>
+              Profesyonel Masaj – Sık Sorulan Sorular (SSS)<br>
+              Profesyonel masaj nedir?<br>
+              Profesyonel masaj, kas gerginliklerini azaltan, kan dolaşımını destekleyen ve beden-zihin dengesini sağlayan uzman terapistler tarafından uygulanan bütünsel bir terapi yöntemidir.<br>
+              ________________________________________<br>
+              Hangi durumlarda masaj önerilir?<br>
+              •	Kas ağrıları ve spazmları<br>
+              •	Stres ve yorgunluk<br>
+              •	Kan ve lenf dolaşımı problemleri<br>
+              •	Spor sonrası iyileşme<br>
+              •	Uyku problemleri ve enerji düşüklüğü<br>
+              ________________________________________<br>
+              Masaj acı verir mi?<br>
+              Masajın yoğunluğu ve türüne göre hafif baskı hissi oluşabilir. Derin doku masajında hafif ağrı hissedilebilir, ancak işlem genel olarak rahatlatıcıdır.<br>
+              ________________________________________<br>
+              Seans süresi ne kadardır?<br>
+              Profesyonel masaj seansları genellikle 30–90 dakika arasında değişir. Masaj türüne ve ihtiyaca göre süre belirlenir.<br>
+              ________________________________________<br>
+              Kaç seans gerekir?<br>
+              İhtiyaca bağlı olarak düzenli seanslar önerilir. Örneğin kas gerginliği veya spor sonrası iyileşme için haftada 1–2 seans etkili olabilir.<br>
+              ________________________________________<br>
+              Masaj herkese uygulanabilir mi?<br>
+              Çoğu kişi için güvenlidir. Ancak ciddi kalp rahatsızlığı, açık yara, enfeksiyon veya bazı kronik hastalıklarda, işlem öncesi uzmana danışılması gerekir.<br>
+              ________________________________________<br>
+              Masaj sonrası nelere dikkat edilmelidir?<br>
+              •	Bol su içerek vücudun toksinleri atmasına yardımcı olun<br>
+              •	Ağır egzersiz veya stres yaratacak aktivitelerden kaçının<br>
+              •	Masaj sonrası hafif kas ağrısı veya yorgunluk hissi normaldir<br>
+              •	Düzenli seanslarla etkilerin kalıcı olmasını sağlayın<br>
+
 
 #Social Media Content
 social-media:
@@ -412,7 +539,7 @@ countdown:
             <div class="counter">101</div><p>bin</p>
             <p>Kişinin Henüz İkamet İznine Sahip olmadığını Gösterir</p>
   column_4: >-
-            <p>WoaBeauty Olarak</p>
+            <p>Güzellik Evi Olarak</p>
             <p>İşte Biz Burda Devreye Giriyoruz!</p>
             <p>Ülkemizde yaşamak isteyen yabancıların işlemlerinin pürüzsüz halledilmesi İçin en iyi şekilde hizmet veriyoruz</p>
 
@@ -430,7 +557,7 @@ footer:
   header_3: Bize mail gönderin
   header_4: Bizi Takip Edin
   header_5: İşe Yarar Bağlantılar
-  copyright_text: Copyright &copy; 2019 <a href="/">WoaBeauty
+  copyright_text: Copyright &copy; 2019 <a href="/">Güzellik Evi
 
 #404 Content
 page_404:

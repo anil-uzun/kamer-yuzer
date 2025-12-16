@@ -6,13 +6,10 @@ permalink: /hizmetler/profesyonel-makyaj
 
 number: 7
 
-tags: visa vize
 categories: [service]
 image: /assets/img/services/07.jpg
 icon: /assets/img/icons/layer-group-solid.svg
 
-hrefs_tr: [["Çalışma Vizesi"],["Turizm Vizesi"],["Eğitim Vizesi"],["Transit Vize"],["Havalimanı Transit Vizesi"],["Resmi Görev Vizesi"]]
-hrefs_en: [["Working Visa"],["Tourism Visa"],["Education Visa"],["Transit Visa"],["Airport Transit Visa"],["Official Duty Visa"]]
 ---
 
 <div class="row">

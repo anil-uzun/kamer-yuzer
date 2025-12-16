@@ -7,9 +7,6 @@ permalink: hizmetler/altin-oran-kas-tasarimi
 
 number: 1
 type: yüz
-hrefs_tr: [["Neden Bir Türk Vatandaşı Olmak İsteyeyim?"], ["Vatandaş Olmak İçin Neden Bir Danışmanlıktan Yardım Almalıyım?"]]
-hrefs_en: [["Why would i want to become a Turkish Citizen?"], ["Why should i get the help of a consulting service to become a Citizen?"]]
-tags: kas tasarim
 categories: [service]
 icon: /assets/img/icons/address-card-solid.svg
 image: /assets/img/services/01.jpg

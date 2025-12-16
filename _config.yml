@@ -1,13 +1,13 @@
-title_tr: "WoaBeauty - Kamer Yüzer Güzellik Evi"
-title_en: "WoaBeauty - Kamer Yüzer House of Beauty"
+title_tr: "Güzellik Evi - Kamer Yüzer"
+title_en: "Güzellik Evi - Kamer Yüzer House of Beauty"
 email: "kameryuzer@gmail.com"
 phone_number: "+90 545 122 96 56"
 whatsapp: "+90 545 122 96 56"
 description_tr: >
-  WoaBeauty 
-  - Kamer Yüzer Güzellik Evi
+  Güzellik Evi 
+  - Kamer Yüzer
 description_en: >-
-  WoaBeauty 
+  Güzellik Evi 
   - Kamer Yüzer House of Beauty
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.kameryuzer.com" # the base hostname & protocol for your site, e.g. http://example.com

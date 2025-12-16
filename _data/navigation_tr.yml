@@ -11,11 +11,7 @@
 - text: Sosyal Medya Sayfalarımız
   url: /sayfalar/sosyal-medya
   submenu:
-  - text: Facebook
-    url: https://www.facebook.com/yildizglobal/
   - text: İnstagram
-    url: https://instagram.com/yldzglobal_/
-  - text: Tiktok
-    url: https://tiktok.com/@starpermit
+    url: https://instagram.com/WoaBeautyLevent/
 - text: İletişim
   url: /sayfalar/iletisim

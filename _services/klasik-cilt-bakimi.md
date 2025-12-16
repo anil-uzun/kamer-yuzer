@@ -6,9 +6,6 @@ permalink: hizmetler/klasik-cilt-bakimi
 
 number: 6
 
-hrefs_tr: [["Neden Yabancı Sağlık Sigortası Çıkartmalıyım?"], ["Yabancı Sağlık Sigortası İçin Neden Bir Danışmana İhtiyacım Var?"]]
-hrefs_en: [["Why Should I Get Foreigner Health Insurance?"], ["Why do i need a consulting service to get foreigner health insurance?"]]
-tags: health sağlık insurance sigorta
 categories: [service]
 icon: /assets/img/icons/ambulance-solid.svg
 image: /assets/img/services/06.jpg
