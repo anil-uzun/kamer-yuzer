@@ -26,7 +26,6 @@ image: /assets/img/services/03.jpg
                 {% endif %}
                 <span><i class="fas fa-phone"></i>{% translate service_3.btn_1 %}</span></a></b><p></p>
             </div>
-        </div>
             <h4>{% translate service_3.header_2 %}</h4>
             {% translate service_3.text_2 %}
             <p></p>

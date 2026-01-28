@@ -96,6 +96,191 @@ services:
   service_9:  REFLEKSOLOJİ
   text_9:     --
 
+#SSS Content
+sss:
+  header_1:   Sıkça Sorulan Sorular
+  text_1:     Aklınıza takılan soruların cevaplarını buradan bulabilirsiniz
+  
+  header_2:   Klasik Cilt Bakımı – Sık Sorulan Sorular (SSS)
+  text_2: >-  
+              Klasik cilt bakımı nedir?<br>
+              Klasik cilt bakımı, cildin derinlemesine temizlenmesi, gözeneklerin arındırılması, nem dengesinin sağlanması ve cildin yenilenmesi amacıyla uygulanan temel ve en etkili bakım yöntemidir.<br>
+              ________________________________________<br>
+              Klasik cilt bakımı kimlere uygundur?<br>
+              Kuru, yağlı, karma ve hassas dahil olmak üzere tüm cilt tipleri için uygundur. Uygulama öncesinde yapılan cilt analizi ile bakım içeriği kişiye özel olarak belirlenir.<br>
+              ________________________________________<br>
+              Klasik cilt bakımı ne kadar sürer?<br>
+              Seans süresi ortalama 60–90 dakika arasında değişir. Cilt tipi ve yapılacak işlemlere göre süre uzayıp kısalabilir.<br>
+              ________________________________________<br>
+              Klasik cilt bakımı ne sıklıkla yapılmalıdır?<br>
+              Cilt tipine göre genellikle ayda 1 kez düzenli olarak yapılması önerilir. Yoğun siyah nokta ve akne problemi olan ciltlerde ilk dönemde aralıklar kısaltılabilir.<br>
+              ________________________________________<br>
+              İşlem sırasında acı hissedilir mi?<br>
+              Temizlik ve siyah nokta aşamasında hafif bir baskı hissedilebilir ancak genellikle ağrılı bir işlem değildir. Hassas ciltlerde uygulama nazik şekilde yapılır.<br>
+              ________________________________________<br>
+              Klasik cilt bakımının cilde faydaları nelerdir?<br>
+              •	Gözenekleri temizler<br>
+              •	Siyah nokta ve yağ bezelerini azaltır<br>
+              •	Cildi aydınlatır<br>
+              •	Nem dengesini düzenler<br>
+              •	Akne oluşumunu önlemeye yardımcı olur<br>
+              •	Cildi pürüzsüz ve canlı gösterir<br>
+              ________________________________________<br>
+              İşlem sonrası ciltte kızarıklık olur mu?<br>
+              Hassas ciltlerde kısa süreli hafif kızarıklık görülebilir. Genellikle birkaç saat içinde kendiliğinden geçer.<br>
+              ________________________________________<br>
+              İşlem sonrası makyaj yapılabilir mi?<br>
+              Cildin dinlenmesi açısından işlem sonrası en az 12–24 saat makyaj yapılmaması önerilir.<br>
+              ________________________________________<br>
+              Klasik cilt bakımı sivilceye neden olur mu?<br>
+              Hayır, doğru şekilde ve hijyenik koşullarda uygulandığında sivilceye neden olmaz. Aksine düzenli bakım akne oluşumunu azaltır.<br>
+              ________________________________________<br>
+              Klasik cilt bakımı lekelere iyi gelir mi?<br>
+              Düzenli bakım cilt tonunun eşitlenmesine yardımcı olur ve leke görünümünü zamanla hafifletebilir. Ancak ileri düzey lekelerde destekleyici işlemler gerekebilir.<br>
+              ________________________________________<br>
+              Hamilelikte klasik cilt bakımı yapılır mı?<br>
+              Hamilelikte genellikle temel ve kimyasal içermeyen ürünlerle klasik cilt bakımı yapılabilir. Uygulama öncesinde mutlaka bilgi verilmesi önemlidir.<br>
+              ________________________________________<br>
+              İşlem sonrası nelere dikkat edilmelidir?<br>
+              •	İlk 24 saat güneşe çıkılmamalıdır.<br>
+              •	Solaryum ve sıcak ortamlar (sauna, hamam) önerilmez.<br>
+              •	Cilt nemlendirilmeli ve güneş koruyucu kullanılmalıdır.<br>
+              •	Cilde sert peeling ve asit içerikli ürünler uygulanmamalıdır.<br>
+
+  header_3:   İğneli Epilasyon – Sık Sorulan Sorular (SSS)
+  text_3: >-
+              İğneli epilasyon kalıcı mı?<br>
+              Evet. İğneli epilasyon, kıl kökünü doğrudan tahrip ettiği için kalıcı sonuç veren tek epilasyon yöntemidir. Uygulama doğru şekilde yapıldığında yok edilen kıl tekrar çıkmaz.<br>
+              ________________________________________<br>
+              İğneli epilasyon kimlere uygulanabilir?<br>
+              Tüm cilt tiplerine ve tüm kıl renklerine (beyaz, sarı, kızıl, ince-kalın) güvenle uygulanabilir. Lazer epilasyonun etkisiz olduğu tüylerde özellikle tercih edilir.<br>
+              ________________________________________<br>
+              Hangi bölgelere uygulanır?<br>
+              Yüz (bıyık, çene, kaş arası, favori), boyun, koltuk altı, bikini, karın, göğüs, sırt ve ben çevresi dahil olmak üzere vücudun tüm bölgelerine uygulanabilir.<br>
+              ________________________________________<br>
+              Seans sayısı neye göre değişir?<br>
+              Seans sayısı; kıl yoğunluğu, kıl yapısı, hormonal durum ve uygulanan bölgeye göre kişiden kişiye değişir. Kıllar tek tek yok edildiği için işlem seanslar halinde ve kontrollü şekilde ilerler.<br>
+              ________________________________________<br>
+              İğneli epilasyon acı verir mi?
+              Uygulama sırasında hafif bir batma veya sıcaklık hissi oluşabilir. Acı eşiğine göre his kişiden kişiye değişir. Gerekli durumlarda lokal uyuşturucu kremlerle konfor artırılabilir.<br>
+              ________________________________________<br>
+              İşlem sonrası iz kalır mı?<br>
+              Uzman kişiler tarafından doğru teknikle yapıldığında kalıcı iz bırakmaz. İşlem sonrası oluşabilecek hafif kızarıklık ve kabuklanmalar kısa sürede kendiliğinden geçer.<br>
+              ________________________________________
+              İğneli epilasyon lazer epilasyondan farkı nedir?<br>
+              Lazer epilasyon kılın içindeki melanin pigmentini hedef alır ve açık renkli tüylerde etkili değildir. İğneli epilasyon ise kıl kökünü direkt yok ettiği için tüm tüylerde etkilidir ve kalıcıdır.<br>
+              ________________________________________<br>
+              İşlem sonrası nelere dikkat edilmelidir?<br>
+              •	İlk 24 saat suyla temas edilmemelidir.<br>
+              •	Güneş, solaryum ve sıcak ortamlardan kaçınılmalıdır.<br>
+              •	Kabuklar koparılmamalıdır.<br>
+              •	Uzmanın önerdiği yatıştırıcı ürünler düzenli kullanılmalıdır.<br>
+              ________________________________________<br>
+              İğneli epilasyon hormonları etkiler mi?<br>
+              Hayır. İğneli epilasyon yalnızca kıl kökü üzerinde etkilidir, hormonları etkilemez. Ancak hormonal tüylenmelerde destekleyici ve kalıcı çözüm sunar.<br>
+              ________________________________________<br>
+              Hamilelikte iğneli epilasyon yapılır mı?<br>
+              Hamileliğin özellikle ilk dönemlerinde önerilmez. Mutlaka doktor onayı ve uzman değerlendirmesi gereklidir.<br>
+              ________________________________________<br>
+              Sonuçlar ne zaman görülür?<br>
+              İşlem yapılan kıl kökü anında yok edilir. Tam sonuç ise tüm kıl döngüleri tamamlandığında, seanslar ilerledikçe net olarak görülür.<br>
+
+  header_4:   Kalıcı Makyaj – Sık Sorulan Sorular (SSS)
+  text_4: >-
+              Kalıcı makyaj nedir?<br>
+              Kalıcı makyaj, kaş, göz ve dudak bölgelerinde özel pigmentlerin cilt altına işlenmesiyle uzun süre kalıcı ve doğal görünüm sağlayan profesyonel bir makyaj uygulamasıdır.<br>
+              ________________________________________<br>
+              Hangi bölgelerde uygulanabilir?<br>
+              •	Kaş kontürü ve şekillendirme<br>
+              •	Eyeliner ve göz içi kontür<br>
+              •	Dudak kontürü ve renklendirme<br>
+              •	Kaş gölgelendirme ve microblading<br>
+              ________________________________________<br>
+              Kalıcı makyaj acı verir mi?<br>
+              Uygulama sırasında hafif bir batma veya ısı hissi olabilir. İşlem öncesinde lokal anestezik krem kullanılarak konfor sağlanır.<br>
+              ________________________________________<br>
+              Kalıcı makyajın etkisi ne kadar sürer?<br>
+              Kalıcı makyaj genellikle 2–5 yıl arasında etkili olur. Pigment rengi zamanla hafifleyebilir; bu nedenle dokunuş seansları önerilir.<br>
+              ________________________________________<br>
+              İşlem öncesinde dikkat edilmesi gerekenler nelerdir?<br>
+              •	İşlemden 24 saat önce alkol, aspirin veya kan sulandırıcı kullanımı azaltılmalıdır.<br>
+              •	Ciltte açık yara veya enfeksiyon olmamalıdır.<br>
+              •	Hamilelik veya emzirme döneminde işlem için uzman tavsiyesi alınmalıdır.<br>
+              ________________________________________<br>
+              İşlem sonrası nelere dikkat edilmelidir?<br>
+              •	İşlem sonrası ilk 7–10 gün makyaj uygulanmamalıdır.<br>
+              •	Cilt temiz ve kuru tutulmalıdır.<br>
+              •	Kabuklanma oluşabilir, kesinlikle koparılmamalıdır.<br>
+              •	Güneş, solaryum ve sauna gibi aşırı sıcak ortamlardan kaçınılmalıdır.<br>
+              •	Uzman tarafından önerilen bakım ürünleri kullanılmalıdır.<br>
+              ________________________________________<br>
+              Kalıcı makyaj herkese uygulanabilir mi?<br>
+              Genel olarak 18 yaş üzeri herkese uygulanabilir. Ancak cilt problemleri, alerjik reaksiyonlar veya bazı kronik rahatsızlıklar durumunda uzman değerlendirmesi gerekir.<br>
+              ________________________________________<br>
+              Sonuç ne zaman görülür?<br>
+              İlk görünüm işlem sonrası hemen fark edilir. Kalıcı ve doğal renk tonu, kabuklanmanın dökülmesinden sonra 7–10 gün içinde netleşir.<br>
+
+  header_5:   Profesyonel Masaj – Sık Sorulan Sorular (SSS)
+  text_5: >-
+              Profesyonel masaj nedir?<br>
+              Profesyonel masaj, kas gerginliklerini azaltan, kan dolaşımını destekleyen ve beden-zihin dengesini sağlayan uzman terapistler tarafından uygulanan bütünsel bir terapi yöntemidir.<br>
+              ________________________________________<br>
+              Hangi durumlarda masaj önerilir?<br>
+              •	Kas ağrıları ve spazmları<br>
+              •	Stres ve yorgunluk<br>
+              •	Kan ve lenf dolaşımı problemleri<br>
+              •	Spor sonrası iyileşme<br>
+              •	Uyku problemleri ve enerji düşüklüğü<br>
+              ________________________________________<br>
+              Masaj acı verir mi?<br>
+              Masajın yoğunluğu ve türüne göre hafif baskı hissi oluşabilir. Derin doku masajında hafif ağrı hissedilebilir, ancak işlem genel olarak rahatlatıcıdır.<br>
+              ________________________________________<br>
+              Seans süresi ne kadardır?<br>
+              Profesyonel masaj seansları genellikle 30–90 dakika arasında değişir. Masaj türüne ve ihtiyaca göre süre belirlenir.<br>
+              ________________________________________<br>
+              Kaç seans gerekir?<br>
+              İhtiyaca bağlı olarak düzenli seanslar önerilir. Örneğin kas gerginliği veya spor sonrası iyileşme için haftada 1–2 seans etkili olabilir.<br>
+              ________________________________________<br>
+              Masaj herkese uygulanabilir mi?<br>
+              Çoğu kişi için güvenlidir. Ancak ciddi kalp rahatsızlığı, açık yara, enfeksiyon veya bazı kronik hastalıklarda, işlem öncesi uzmana danışılması gerekir.<br>
+              ________________________________________<br>
+              Masaj sonrası nelere dikkat edilmelidir?<br>
+              •	Bol su içerek vücudun toksinleri atmasına yardımcı olun<br>
+              •	Ağır egzersiz veya stres yaratacak aktivitelerden kaçının<br>
+              •	Masaj sonrası hafif kas ağrısı veya yorgunluk hissi normaldir<br>
+              •	Düzenli seanslarla etkilerin kalıcı olmasını sağlayın<br>
+  
+  header_6:   Kirpik Lifting – Sık Sorulan Sorular (SSS)
+  text_6: >-
+              Kirpik Lifting nedir?<br>
+              Kirpik Lifting, doğal kirpiklerinizi kıvırarak daha uzun, hacimli ve bakımlı görünmesini sağlayan kalıcı bir kirpik şekillendirme uygulamasıdır. Takma kirpik veya uzatma gerektirmez.<br>
+              ________________________________________<br>
+              Kirpik Lifting kimlere uygundur?<br>
+              Tüm doğal kirpik tiplerine uygundur. Çok kısa veya seyrek kirpiklerde etkisi daha sınırlı olabilir, bu durumda uzman değerlendirmesi önerilir.<br>
+              ________________________________________<br>
+              İşlem ne kadar sürer?<br>
+              Ortalama uygulama süresi 45–60 dakika arasındadır. Kirpik sayısı ve uzunluğu işlem süresini etkileyebilir.<br>
+              ________________________________________<br>
+              Etki süresi ne kadardır?<br>
+              Kirpik Lifting’in etkisi genellikle 6–8 hafta sürer. Düzenli bakım ve uygun ürün kullanımı ile sonuçlar daha uzun süre korunabilir.<br>
+              ________________________________________<br>
+              İşlem sırasında acı hissedilir mi?<br>
+              Hayır. Kirpiklerinizin kıvrılması sırasında hafif bir baskı veya batma hissi oluşabilir, ancak işlem genellikle ağrısızdır.<br>
+              ________________________________________<br>
+              Kirpik Lifting sonrası makyaj yapılabilir mi?<br>
+              İşlemden sonra ilk 24 saat kirpiklerin temas etmemesi önerilir. Daha sonra maskara veya göz makyajı rahatlıkla yapılabilir.<br>
+              ________________________________________<br>
+              Kirpikler zarar görür mü?<br>
+              Doğru uygulandığında kirpik yapısına zarar vermez. İşlem sırasında kullanılan solüsyonlar kirpik sağlığını koruyacak şekilde formüle edilmiştir.<br>
+              ________________________________________<br>
+              Hamilelikte Kirpik Lifting yapılabilir mi?<br>
+              Hamilelik ve emzirme döneminde, içeriğindeki kimyasal bileşenler nedeniyle uygulama uzman tavsiyesi ile yapılmalıdır.<br>
+              ________________________________________<br>
+              İşlem sonrası nelere dikkat edilmelidir?<br>
+              •	İlk 24 saat kirpiklere su değmemelidir.<br>
+              •	Kirpiklere sert dokunuşlardan ve ovalamadan kaçınılmalıdır.<br>
+              •	Suya dayanıklı maskara ve kirpik bakım serumları ile desteklenebilir.<br>
+
 #service Content
 
 #service 1 Content
@@ -405,34 +590,34 @@ service_7:
   
   header_2:   Kirpik Lifting – Sık Sorulan Sorular (SSS)
   text_2: >-
-              Kirpik Lifting nedir?
-              Kirpik Lifting, doğal kirpiklerinizi kıvırarak daha uzun, hacimli ve bakımlı görünmesini sağlayan kalıcı bir kirpik şekillendirme uygulamasıdır. Takma kirpik veya uzatma gerektirmez.
-              ________________________________________
-              Kirpik Lifting kimlere uygundur?
-              Tüm doğal kirpik tiplerine uygundur. Çok kısa veya seyrek kirpiklerde etkisi daha sınırlı olabilir, bu durumda uzman değerlendirmesi önerilir.
-              ________________________________________
-              İşlem ne kadar sürer?
-              Ortalama uygulama süresi 45–60 dakika arasındadır. Kirpik sayısı ve uzunluğu işlem süresini etkileyebilir.
-              ________________________________________
-              Etki süresi ne kadardır?
-              Kirpik Lifting’in etkisi genellikle 6–8 hafta sürer. Düzenli bakım ve uygun ürün kullanımı ile sonuçlar daha uzun süre korunabilir.
-              ________________________________________
-              İşlem sırasında acı hissedilir mi?
-              Hayır. Kirpiklerinizin kıvrılması sırasında hafif bir baskı veya batma hissi oluşabilir, ancak işlem genellikle ağrısızdır.
-              ________________________________________
-              Kirpik Lifting sonrası makyaj yapılabilir mi?
-              İşlemden sonra ilk 24 saat kirpiklerin temas etmemesi önerilir. Daha sonra maskara veya göz makyajı rahatlıkla yapılabilir.
-              ________________________________________
-              Kirpikler zarar görür mü?
-              Doğru uygulandığında kirpik yapısına zarar vermez. İşlem sırasında kullanılan solüsyonlar kirpik sağlığını koruyacak şekilde formüle edilmiştir.
-              ________________________________________
-              Hamilelikte Kirpik Lifting yapılabilir mi?
-              Hamilelik ve emzirme döneminde, içeriğindeki kimyasal bileşenler nedeniyle uygulama uzman tavsiyesi ile yapılmalıdır.
-              ________________________________________
-              İşlem sonrası nelere dikkat edilmelidir?
-              •	İlk 24 saat kirpiklere su değmemelidir.
-              •	Kirpiklere sert dokunuşlardan ve ovalamadan kaçınılmalıdır.
-              •	Suya dayanıklı maskara ve kirpik bakım serumları ile desteklenebilir.
+              Kirpik Lifting nedir?<br>
+              Kirpik Lifting, doğal kirpiklerinizi kıvırarak daha uzun, hacimli ve bakımlı görünmesini sağlayan kalıcı bir kirpik şekillendirme uygulamasıdır. Takma kirpik veya uzatma gerektirmez.<br>
+              ________________________________________<br>
+              Kirpik Lifting kimlere uygundur?<br>
+              Tüm doğal kirpik tiplerine uygundur. Çok kısa veya seyrek kirpiklerde etkisi daha sınırlı olabilir, bu durumda uzman değerlendirmesi önerilir.<br>
+              ________________________________________<br>
+              İşlem ne kadar sürer?<br>
+              Ortalama uygulama süresi 45–60 dakika arasındadır. Kirpik sayısı ve uzunluğu işlem süresini etkileyebilir.<br>
+              ________________________________________<br>
+              Etki süresi ne kadardır?<br>
+              Kirpik Lifting’in etkisi genellikle 6–8 hafta sürer. Düzenli bakım ve uygun ürün kullanımı ile sonuçlar daha uzun süre korunabilir.<br>
+              ________________________________________<br>
+              İşlem sırasında acı hissedilir mi?<br>
+              Hayır. Kirpiklerinizin kıvrılması sırasında hafif bir baskı veya batma hissi oluşabilir, ancak işlem genellikle ağrısızdır.<br>
+              ________________________________________<br>
+              Kirpik Lifting sonrası makyaj yapılabilir mi?<br>
+              İşlemden sonra ilk 24 saat kirpiklerin temas etmemesi önerilir. Daha sonra maskara veya göz makyajı rahatlıkla yapılabilir.<br>
+              ________________________________________<br>
+              Kirpikler zarar görür mü?<br>
+              Doğru uygulandığında kirpik yapısına zarar vermez. İşlem sırasında kullanılan solüsyonlar kirpik sağlığını koruyacak şekilde formüle edilmiştir.<br>
+              ________________________________________<br>
+              Hamilelikte Kirpik Lifting yapılabilir mi?<br>
+              Hamilelik ve emzirme döneminde, içeriğindeki kimyasal bileşenler nedeniyle uygulama uzman tavsiyesi ile yapılmalıdır.<br>
+              ________________________________________<br>
+              İşlem sonrası nelere dikkat edilmelidir?<br>
+              •	İlk 24 saat kirpiklere su değmemelidir.<br>
+              •	Kirpiklere sert dokunuşlardan ve ovalamadan kaçınılmalıdır.<br>
+              •	Suya dayanıklı maskara ve kirpik bakım serumları ile desteklenebilir.<br>
 
 #service 8 Content
 service_8:

@@ -1,0 +1,43 @@
+<header>
+    <div id="sticky-header" class="menu-area transparent-bg">
+        <div class="container mt-60">
+            <div class="row align-items-center">
+                <invis id="site.lang">{{site.lang}}</invis>
+                <div class="col-xl-2 col-lg-2 col-md-3 col-sm-5">
+                    <div class="logo">
+                        <a href="{{site.baseurl}}"><img style="opacity: 0; height: 180px; aspect-ratio: 1;" src="{{site.baseurl}}/{{site.logo}}" class="img-fluid" alt="{{site.title}}"></a>
+                    </div>
+                </div>
+                <div class="col-xl-9 col-lg-9 text-right" style="margin-left: -8%;">
+                    <div class="main-menu">
+                        {% include navigation.html %}
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="mobile-menu"></div>
+                </div>
+            </div>
+            <div class="offcanvas-menu">
+                {% include offcanvas_menu.html %}
+            </div>
+            <div class="offcanvas-overly"></div>
+        </div>
+    </div>
+</header>
+<!-- Modal Search -->
+<div class="modal fade" id="search-modal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-xl" role="document">
+        <div class="modal-content">
+            <form>
+                {% if site.lang == "tr" %}
+                <input type="text" id="search-input" placeholder="{% translate search.text %}">
+                {% endif %}
+                {% if site.lang == "en" %}
+                <input type="text" id="en-search-input" placeholder="{% translate search.text %}">
+                {% endif %}
+                <button><i class="fa fa-search"></i></button>
+            </form>
+            <ul id="results-container"></ul>
+        </div>
+    </div>
+</div>

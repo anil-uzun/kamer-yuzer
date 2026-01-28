@@ -7,74 +7,61 @@ permalink:    /sayfalar/sikca-sorulan-sorular/
 
 ---
 
-{% if site.lang == "tr" %}
-<div class="basic-blog-area gray-bg pt-100 pb-100">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 blog-post-items">
-                {% for post in site.posts %}
-                <div class="blog-wrapper mb-40">
-                    <div class="blog-thumb">
-                        <a href="{{post.url}}">
-                            <img class="img-fluid" src="{{post.post_image}}" alt="{{post.title}}"/>
-                        </a>
-                    </div>
-                    <div class="meta-info">
-                        <ul>
-                            <li class="posts-time">{{post.date | date_to_long_string}}</li>
-                        </ul>
-                    </div>
-                    <div class="blog-content">
-                        <h2 class="blog-title">
-                            <a href="{{post.url}}">{{post.title}}</a>
-                        </h2>
-                        <p>{{post.excerpt | strip_html | truncatewords:"30"}}</p>
-                    </div>
-                    <div class="link-box">
-                        <a href="{{post.url}}">{% translate global.continue %}</a>
-                    </div>
+<div class="container">
+    <div class="service-details mb-30">
+        <div class="accordion-box">
+            <div class="accordion-item">
+                <input type="checkbox" class="jumptarget" checked onclick='window.location.assign("#tab0")' id="tab0"/>
+                <label for="tab0" class="accordion-title text-center"><b>{% translate global.headers %}</b></label>
+                <div class="accordion-content">
+                    <blockquote class="blockquote single-quote">
+                        <div class="sidebar-link grey-bg">
+                            <ul>
+                                <li><a href="#{% translate sss.header_2 %}">{% translate sss.header_2 %}<b> Tıkla ve Öğren</b></a></li>
+                            </ul>
+                            <ul>
+                                <li><a href="#{% translate sss.header_3 %}">{% translate sss.header_3 %}<b> Tıkla ve Öğren</b></a></li>
+                            </ul>
+                            <ul>
+                                <li><a href="#{% translate sss.header_4 %}">{% translate sss.header_4 %}<b> Tıkla ve Öğren</b></a></li>
+                            </ul>
+                            <ul>
+                                <li><a href="#{% translate sss.header_5 %}">{% translate sss.header_5 %}<b> Tıkla ve Öğren</b></a></li>
+                            </ul>
+                            <ul>
+                                <li><a href="#{% translate sss.header_6 %}">{% translate sss.header_6 %}<b> Tıkla ve Öğren</b></a></li>
+                            </ul>
+                        </div>
+                    </blockquote>
                 </div>
-                {% endfor %}
             </div>
-            <div class="col-lg-4 sm-mt sidebar-blog right-side">
-                {% include sidebar.html %}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="service-details mb-40">
+                {% translate sss.text_1 %}
+            </div>
+            <div class="service-details mb-40 jumptarget" id="{% translate sss.header_2 %}">
+                <h3>{% translate sss.header_2 %}</h3>
+                {% translate sss.text_2 %}
+            </div>
+            <div class="service-details mb-40 jumptarget" id="{% translate sss.header_3 %}"> 
+                <h3>{% translate sss.header_3 %}</h3>
+                {% translate sss.text_3 %}
+            </div>
+            <div class="service-details mb-40 jumptarget" id="{% translate sss.header_4 %}">
+                <h3>{% translate sss.header_4 %}</h3>
+                {% translate sss.text_4 %}
+            </div>
+            <div class="service-details mb-40 jumptarget" id="{% translate sss.header_5 %}">
+                <h3>{% translate sss.header_5 %}</h3>
+                {% translate sss.text_5 %}
+            </div>
+            <div class="service-details mb-40 jumptarget" id="{% translate sss.header_6 %}">
+                <h3>{% translate sss.header_6 %}</h3>
+                {% translate sss.text_6 %}
             </div>
         </div>
     </div>
 </div>
-{% else %}
-<div class="basic-blog-area gray-bg pt-100 pb-100">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 blog-post-items">
-              {% for post in site.posts %}
-                <div class="blog-wrapper mb-40">
-                    <div class="blog-thumb">
-                        <a href="/{{site.lang}}{{post.url}}">
-                            <img class="img-fluid" src="{{post.post_image}}" alt="{{post.title}}"/>
-                        </a>
-                    </div>
-                    <div class="meta-info">
-                        <ul>
-                            <li class="posts-time">{{post.date | date_to_long_string}}</li>
-                        </ul>
-                    </div>
-                    <div class="blog-content">
-                        <h2 class="blog-title">
-                            <a href="/{{site.lang}}{{post.url}}">{{post.title}}</a>
-                        </h2>
-                        <p>{{post.excerpt | strip_html | truncatewords:"30"}}</p>
-                    </div>
-                    <div class="link-box">
-                        <a href="/{{site.lang}}{{post.url}}">{% translate global.continue %}</a>
-                    </div>
-                </div>
-              {% endfor %}
-            </div>
-            <div class="col-lg-4 sm-mt sidebar-blog right-side">
-             {% include sidebar.html %}
-            </div>
-        </div>
-    </div>
-</div>
-{% endif %}

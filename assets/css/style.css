@@ -547,6 +547,7 @@ label {
 }
 .sticky .logo img{
 	height: 100px !important;
+	opacity: 1 !important;
 }
 .transparent-bg.sticky {
 	background: rgba(0, 0, 0, .7);
