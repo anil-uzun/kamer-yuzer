@@ -11,7 +11,11 @@
 - text: Sosyal Medya Sayfalarımız
   url: /sayfalar/sosyal-medya
   submenu:
+  - text: Facebook
+    url: https://www.facebook.com/people/Kamer-Yüzer/61559274773332/
   - text: İnstagram
-    url: https://instagram.com/WoaBeautyLevent/
+    url: https://www.instagram.com/kameryuzer.guzellikevi/
+  - text: Tiktok
+    url: https://www.tiktok.com/@kyuzer5?_r=1&_t=ZS-93NCMWp82yK
 - text: İletişim
   url: /sayfalar/iletisim

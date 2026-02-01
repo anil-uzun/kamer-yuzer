@@ -166,7 +166,7 @@ sss:
               ________________________________________<br>
               İşlem sonrası iz kalır mı?<br>
               Uzman kişiler tarafından doğru teknikle yapıldığında kalıcı iz bırakmaz. İşlem sonrası oluşabilecek hafif kızarıklık ve kabuklanmalar kısa sürede kendiliğinden geçer.<br>
-              ________________________________________
+              ________________________________________<br>
               İğneli epilasyon lazer epilasyondan farkı nedir?<br>
               Lazer epilasyon kılın içindeki melanin pigmentini hedef alır ve açık renkli tüylerde etkili değildir. İğneli epilasyon ise kıl kökünü direkt yok ettiği için tüm tüylerde etkilidir ve kalıcıdır.<br>
               ________________________________________<br>
@@ -445,7 +445,7 @@ service_3:
             ________________________________________<br>
             İşlem sonrası iz kalır mı?<br>
             Uzman kişiler tarafından doğru teknikle yapıldığında kalıcı iz bırakmaz. İşlem sonrası oluşabilecek hafif kızarıklık ve kabuklanmalar kısa sürede kendiliğinden geçer.<br>
-            ________________________________________
+            ________________________________________<br>
             İğneli epilasyon lazer epilasyondan farkı nedir?<br>
             Lazer epilasyon kılın içindeki melanin pigmentini hedef alır ve açık renkli tüylerde etkili değildir. İğneli epilasyon ise kıl kökünü direkt yok ettiği için tüm tüylerde etkilidir ve kalıcıdır.<br>
             ________________________________________<br>
@@ -530,46 +530,17 @@ service_5:
 #service 6 Content
 service_6:
   btn_1:      Bizimle İletişime Geç
-  header_1:   PROFESYONEL MASAJ
-  text_1: >-  
-              Profesyonel masaj, kas gerginliklerini azaltmayı, kan dolaşımını desteklemeyi ve beden-zihin dengesini sağlamayı amaçlayan uzman ellerden alınan bütünsel bir terapi yöntemidir. Masaj uygulamaları, sadece rahatlama sağlamaz; aynı zamanda stresin azalmasına, enerji seviyesinin yükselmesine ve genel fiziksel iyileşmeye yardımcı olur.<br>
-              Her masaj seansı öncesinde uzman terapist tarafından ihtiyaç analizi yapılır ve kişinin sağlık durumu göz önünde bulundurularak uygun teknikler seçilir. Bu sayede hem fiziksel hem de zihinsel olarak maksimum fayda sağlanır.<br>
-              Profesyonel Masajın Faydaları:<br>
-              •	Kas gerginliklerini azaltır ve esnekliği artırır<br>
-              •	Kan ve lenf dolaşımını destekler<br>
-              •	Stres ve yorgunluğu azaltır, zihinsel rahatlama sağlar<br>
-              •	Ağrı ve kas spazmlarını hafifletir<br>
-              •	Uyku kalitesini artırır<br>
-              •	Enerji seviyesini yükseltir ve genel sağlığı destekler<br>
-              Profesyonel masaj; klasik masaj, derin doku masajı, aromaterapi ve spor masajı gibi farklı tekniklerle uygulanabilir. Uzman terapistlerimiz tarafından uygulanan her seans, kişiye özel olarak planlanır ve maksimum konfor sağlanır.<br>
-              Profesyonel Masaj – Sık Sorulan Sorular (SSS)<br>
-              Profesyonel masaj nedir?<br>
-              Profesyonel masaj, kas gerginliklerini azaltan, kan dolaşımını destekleyen ve beden-zihin dengesini sağlayan uzman terapistler tarafından uygulanan bütünsel bir terapi yöntemidir.<br>
-              ________________________________________<br>
-              Hangi durumlarda masaj önerilir?<br>
-              •	Kas ağrıları ve spazmları<br>
-              •	Stres ve yorgunluk<br>
-              •	Kan ve lenf dolaşımı problemleri<br>
-              •	Spor sonrası iyileşme<br>
-              •	Uyku problemleri ve enerji düşüklüğü<br>
-              ________________________________________<br>
-              Masaj acı verir mi?<br>
-              Masajın yoğunluğu ve türüne göre hafif baskı hissi oluşabilir. Derin doku masajında hafif ağrı hissedilebilir, ancak işlem genel olarak rahatlatıcıdır.<br>
-              ________________________________________<br>
-              Seans süresi ne kadardır?<br>
-              Profesyonel masaj seansları genellikle 30–90 dakika arasında değişir. Masaj türüne ve ihtiyaca göre süre belirlenir.<br>
-              ________________________________________<br>
-              Kaç seans gerekir?<br>
-              İhtiyaca bağlı olarak düzenli seanslar önerilir. Örneğin kas gerginliği veya spor sonrası iyileşme için haftada 1–2 seans etkili olabilir.<br>
-              ________________________________________<br>
-              Masaj herkese uygulanabilir mi?<br>
-              Çoğu kişi için güvenlidir. Ancak ciddi kalp rahatsızlığı, açık yara, enfeksiyon veya bazı kronik hastalıklarda, işlem öncesi uzmana danışılması gerekir.<br>
-              ________________________________________<br>
-              Masaj sonrası nelere dikkat edilmelidir?<br>
-              •	Bol su içerek vücudun toksinleri atmasına yardımcı olun<br>
-              •	Ağır egzersiz veya stres yaratacak aktivitelerden kaçının<br>
-              •	Masaj sonrası hafif kas ağrısı veya yorgunluk hissi normaldir<br>
-              •	Düzenli seanslarla etkilerin kalıcı olmasını sağlayın<br>
+  header_1:   PROFESYONEL MAKYAJ
+  text_1: >-
+              Profesyonel makyaj, yüz hatlarınızı en doğru şekilde ortaya çıkaran, cilt tonunuza ve tarzınıza uygun olarak uzman eller tarafından uygulanan özel bir güzellik hizmetidir. Özel günlerinizde, davetlerde, düğün, nişan, söz, mezuniyet, fotoğraf çekimi ve sahne makyajlarında kalıcı, kusursuz ve doğal bir görünüm elde etmenizi sağlar.<br>
+              Uygulama öncesinde cilt yapınız, yüz hatlarınız ve beklentileriniz detaylı olarak analiz edilir. Size en uygun renk paleti ve teknik belirlenerek, yüzünüzün doğal güzelliğini ön plana çıkaran, abartıdan uzak ve uzun süre kalıcılığını koruyan bir makyaj uygulaması gerçekleştirilir. Profesyonel ürünler sayesinde gün boyu akma, dağılma ve parlama yapmadan tazeliğini korur.<br>
+              Profesyonel makyajın avantajları:<br>
+              •	Cilt tonunu eşitler, kusurları doğal şekilde kapatır.<br>
+              •	Yüz hatlarını dengeler ve belirginleştirir.<br>
+              •	Uzun süre kalıcılık sağlar.<br>
+              •	Fotoğraf ve ışık altında kusursuz görünüm sunar.<br>
+              •	Kişiye özel tarz ve uygulama imkânı verir.<br>
+              Uzman makyaj sanatçılarımızın kaliteli ürünler ve doğru tekniklerle uyguladığı profesyonel makyaj hizmetimizle, en özel anlarınızda kendinizi her zamankinden daha güzel ve özgüvenli hissedin.<br>
   
 #service 7 Content
 service_7:
@@ -690,17 +661,46 @@ service_11:
 #service 12 Content
 service_12:
   btn_1:      Bizimle İletişime Geç
-  header_1:   PROFESYONEL makyaj
-  text_1: >-
-              Profesyonel makyaj, yüz hatlarınızı en doğru şekilde ortaya çıkaran, cilt tonunuza ve tarzınıza uygun olarak uzman eller tarafından uygulanan özel bir güzellik hizmetidir. Özel günlerinizde, davetlerde, düğün, nişan, söz, mezuniyet, fotoğraf çekimi ve sahne makyajlarında kalıcı, kusursuz ve doğal bir görünüm elde etmenizi sağlar.<br>
-              Uygulama öncesinde cilt yapınız, yüz hatlarınız ve beklentileriniz detaylı olarak analiz edilir. Size en uygun renk paleti ve teknik belirlenerek, yüzünüzün doğal güzelliğini ön plana çıkaran, abartıdan uzak ve uzun süre kalıcılığını koruyan bir makyaj uygulaması gerçekleştirilir. Profesyonel ürünler sayesinde gün boyu akma, dağılma ve parlama yapmadan tazeliğini korur.<br>
-              Profesyonel makyajın avantajları:<br>
-              •	Cilt tonunu eşitler, kusurları doğal şekilde kapatır.<br>
-              •	Yüz hatlarını dengeler ve belirginleştirir.<br>
-              •	Uzun süre kalıcılık sağlar.<br>
-              •	Fotoğraf ve ışık altında kusursuz görünüm sunar.<br>
-              •	Kişiye özel tarz ve uygulama imkânı verir.<br>
-              Uzman makyaj sanatçılarımızın kaliteli ürünler ve doğru tekniklerle uyguladığı profesyonel makyaj hizmetimizle, en özel anlarınızda kendinizi her zamankinden daha güzel ve özgüvenli hissedin.<br>
+  header_1:   PROFESYONEL MASAJ
+  text_1: >-  
+              Profesyonel masaj, kas gerginliklerini azaltmayı, kan dolaşımını desteklemeyi ve beden-zihin dengesini sağlamayı amaçlayan uzman ellerden alınan bütünsel bir terapi yöntemidir. Masaj uygulamaları, sadece rahatlama sağlamaz; aynı zamanda stresin azalmasına, enerji seviyesinin yükselmesine ve genel fiziksel iyileşmeye yardımcı olur.<br>
+              Her masaj seansı öncesinde uzman terapist tarafından ihtiyaç analizi yapılır ve kişinin sağlık durumu göz önünde bulundurularak uygun teknikler seçilir. Bu sayede hem fiziksel hem de zihinsel olarak maksimum fayda sağlanır.<br>
+              Profesyonel Masajın Faydaları:<br>
+              •	Kas gerginliklerini azaltır ve esnekliği artırır<br>
+              •	Kan ve lenf dolaşımını destekler<br>
+              •	Stres ve yorgunluğu azaltır, zihinsel rahatlama sağlar<br>
+              •	Ağrı ve kas spazmlarını hafifletir<br>
+              •	Uyku kalitesini artırır<br>
+              •	Enerji seviyesini yükseltir ve genel sağlığı destekler<br>
+              Profesyonel masaj; klasik masaj, derin doku masajı, aromaterapi ve spor masajı gibi farklı tekniklerle uygulanabilir. Uzman terapistlerimiz tarafından uygulanan her seans, kişiye özel olarak planlanır ve maksimum konfor sağlanır.<br>
+              Profesyonel Masaj – Sık Sorulan Sorular (SSS)<br>
+              Profesyonel masaj nedir?<br>
+              Profesyonel masaj, kas gerginliklerini azaltan, kan dolaşımını destekleyen ve beden-zihin dengesini sağlayan uzman terapistler tarafından uygulanan bütünsel bir terapi yöntemidir.<br>
+              ________________________________________<br>
+              Hangi durumlarda masaj önerilir?<br>
+              •	Kas ağrıları ve spazmları<br>
+              •	Stres ve yorgunluk<br>
+              •	Kan ve lenf dolaşımı problemleri<br>
+              •	Spor sonrası iyileşme<br>
+              •	Uyku problemleri ve enerji düşüklüğü<br>
+              ________________________________________<br>
+              Masaj acı verir mi?<br>
+              Masajın yoğunluğu ve türüne göre hafif baskı hissi oluşabilir. Derin doku masajında hafif ağrı hissedilebilir, ancak işlem genel olarak rahatlatıcıdır.<br>
+              ________________________________________<br>
+              Seans süresi ne kadardır?<br>
+              Profesyonel masaj seansları genellikle 30–90 dakika arasında değişir. Masaj türüne ve ihtiyaca göre süre belirlenir.<br>
+              ________________________________________<br>
+              Kaç seans gerekir?<br>
+              İhtiyaca bağlı olarak düzenli seanslar önerilir. Örneğin kas gerginliği veya spor sonrası iyileşme için haftada 1–2 seans etkili olabilir.<br>
+              ________________________________________<br>
+              Masaj herkese uygulanabilir mi?<br>
+              Çoğu kişi için güvenlidir. Ancak ciddi kalp rahatsızlığı, açık yara, enfeksiyon veya bazı kronik hastalıklarda, işlem öncesi uzmana danışılması gerekir.<br>
+              ________________________________________<br>
+              Masaj sonrası nelere dikkat edilmelidir?<br>
+              •	Bol su içerek vücudun toksinleri atmasına yardımcı olun<br>
+              •	Ağır egzersiz veya stres yaratacak aktivitelerden kaçının<br>
+              •	Masaj sonrası hafif kas ağrısı veya yorgunluk hissi normaldir<br>
+              •	Düzenli seanslarla etkilerin kalıcı olmasını sağlayın<br>
 
 
 #Social Media Content

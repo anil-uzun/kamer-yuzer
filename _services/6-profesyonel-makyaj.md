@@ -2,12 +2,12 @@
 layout: featured
 title_tr: Profesyonel Makyaj
 
-permalink: /hizmetler/profesyonel-makyaj
+permalink: hizmetler/profesyonel-makyaj
 
 number: 6
 
 categories: [service]
-image: /assets/img/services/6.jpg
+image: /assets/img/services/06.jpg
 icon: /assets/img/icons/layer-group-solid.svg
 
 ---
