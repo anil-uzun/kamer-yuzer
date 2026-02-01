@@ -427,7 +427,6 @@ label {
 	position: absolute;
 	top: 110%;
 	left: 0;
-	background: var(--dark-background);
 	z-index: 99;
 	width: 200px;
 	opacity: 0;
@@ -458,11 +457,11 @@ label {
 	font-weight: 600;
 	position: relative;
 	font-size: 13px;
-	color: var(--theme_dark);
+	color: var(--theme_s-light);
 	transition: 0.3s;
 }
 .main-menu.second-menu ul li .sub-menu li a {
-	color: var(--theme_dark);
+	color: var(--theme_s-light);
 }
 .main-menu.second-menu ul li .sub-menu li:hover a {
 	color: var(--theme_s-light);
