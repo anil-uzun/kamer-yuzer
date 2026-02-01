@@ -25,6 +25,16 @@ icon: /assets/img/icons/layer-group-solid.svg
                 {% endif %}
             </div>
             {% translate service_2.text_1 %}
+            <h3>{% translate service_2.header_2 %}</h3>
+            <div class="contact-person">
+                {% if site.lang == "tr" %}
+                <b><a href="/sayfalar/iletisim"><span><i class="fas fa-phone"></i>{% translate service_2.btn_1 %}</span></a></b><p></p>
+                {% endif %}
+                {% if site.lang == "en" %}
+                <b><a href="/en/pages/contact"><span><i class="fas fa-phone"></i>{% translate service_2.btn_1 %}</span></a></b><p></p>
+                {% endif %}
+            </div>
+            {% translate service_2.text_2 %}
         </div>
     </div>
 </div>
